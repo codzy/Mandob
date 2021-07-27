@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "711257968063",
+    "project_id": "mandob-b057d",
+    "storage_bucket": "mandob-b057d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:711257968063:android:a6c5958773d05bc784250a",
+        "android_client_info": {
+          "package_name": "com.helwan.mandob"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "711257968063-jqsmsump3ke1pii3hkd54mf2kv9dhtoo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.helwan.mandob",
+            "certificate_hash": "cba89b87cec78fae414b6f8206a3b0123ddd15d3"
+          }
+        },
+        {
+          "client_id": "711257968063-i1t9674boukbpoq6afnac3t1dtuh90d1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC85mQG1CJJyQNlyoY3m9OGP-qHSGL2Bqc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "711257968063-i1t9674boukbpoq6afnac3t1dtuh90d1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
